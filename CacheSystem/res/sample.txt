@@ -1,0 +1,5 @@
+ADD_MOVIE 1 "Titanuc" "Romance" 1997 9.5
+ADD_MOVIE 2 "The Truemen Show" "Triller" 1998 8.4
+ADD_MOVIE 3 "Wolf" "Horror" 2010 8.0
+ALL_MOVIES
+ADD_USER 1 "John" "Action"
